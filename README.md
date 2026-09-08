@@ -4,6 +4,5 @@ Code for "Semi-parametric Bayesian inference to shape-restricted partially linea
 ﻿
 ## Files
 ﻿
-- `SPLANBM_DP.R`: model and Gibbs sampler.
+- `SPLANBM_DP.R`: model and Gibbs sampler. The shape codes are `1` increasing, `2` decreasing, `3` convex, and `4` concave.
 - `simulation_example.R`: reproducible simulation example.
-The shape codes are `1` increasing, `2` decreasing, `3` convex, and `4` concave.
